@@ -122,7 +122,7 @@ if __name__ == "__main__":
     wishMe()
 
     while True:
-        query = takeCommand()    vvfvs
+        query = takeCommand()    
 
         if "open youtube" in query:
             speak("Okay, opening YouTube.")
